@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StreamChecker</string>
+    <string name="buttonStartLabel">Start</string>
+    <string name="buttonStopLabel">Stop</string>
+    <string name="buttonResetLabel">Reset</string>
+    <string name="time">Time:</string>
+    <string name="volume">Volume:</string>
+    <string name="manometerIndication">h[m]:</string>
+    <string name="volumeValue">0.0m^3</string>
+</resources>
